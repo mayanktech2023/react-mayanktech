@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        Mayank Patel
+        KEYA Mayankkumar PATEL
       </header>
     </div>
   );
